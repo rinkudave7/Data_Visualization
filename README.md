@@ -1,2 +1,2 @@
-# Visualization-of-Global_store
+# Visualization_of_Global_store
 ## Objective
