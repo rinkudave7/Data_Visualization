@@ -1,2 +1,2 @@
-# Visualization_of_Global_store
+# Data_Visualization_by_PowerBI
 ## Objective
