@@ -1,2 +1,4 @@
-# Data_Visualization_by_PowerBI
-## Objective
+# Data_Visualization
+
+## Sales Visualization by Power BI
+
