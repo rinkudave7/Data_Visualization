@@ -12,6 +12,6 @@ This file contains my Data Visualization project created using Power BI.
    For the dashboard, the visualizations are added to serve the purpose of this project.
 
 
-## [Bike Buyers Visualization in Excel](https://github.com/rinkudave7/Data_Visualization/blob/main/Excel%20Dashboard.xlsx)
-This file contains my Data Visualization project created using Excel.
+## [Excel Dashboard](https://github.com/rinkudave7/Data_Visualization/blob/main/Excel%20Dashboard.xlsx)
+This file contains Bike Buyers project created using Excel.
 
