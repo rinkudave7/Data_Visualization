@@ -1,6 +1,6 @@
 # Data_Visualization
 
-## Sales Visualization by Power BI
+## [Sales Visualization by Power BI](https://github.com/rinkudave7/Data_Visualization/blob/main/Sales%20Visualization.pbit)
 This file contains my Data Visualization project created using Power BI. 
 ###### - IMPORTING DATA
    First thing done was to import the data from the source file.
