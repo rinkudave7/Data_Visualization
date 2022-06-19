@@ -2,7 +2,7 @@
 
 ## Sales Visualization by Power BI
 This file contains my Data Visualization project created using Power BI. 
-### IMPORTING DATA
+- IMPORTING DATA
 First thing done was to import the data from the source file.
 ### FORMATING
 After the data being imported, in the Data tab, I formatted the data as required for visualization.
